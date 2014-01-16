@@ -1,5 +1,7 @@
-OzonePlatform Super Project [![Build Status](https://travis-ci.org/ozoneplatform/ozoneplatform.png?branch=master)](https://travis-ci.org/ozoneplatform/ozoneplatform)
+OZONE Platform Super Project [![Build Status](https://travis-ci.org/ozoneplatform/ozoneplatform.png?branch=master)](https://travis-ci.org/ozoneplatform/ozoneplatform)
 ======================
+
+#### Looking for OWF 6.0 and 7.0?  Please see the [OWF repository](https://github.com/ozoneplatform/owf).
 
 This is a super project for all ozoneplatform projects.  This project can be used to build all sub projects.
 This project also contains the ultimate maven super pom.
@@ -55,7 +57,7 @@ Running
 	The "Server startup in xxx ms" only indicates Tomcat has started.
 	The kernel is loaded when all console output stops.
 4. To view OWF, use URL http://localhost:8181/owf/index.html
-5. To view the web console that manages the OSGI modules running in the kernel, use http://localhost:8181/system/console
+5. To view the web console that manages the OSGi modules running in the kernel, use http://localhost:8181/system/console
 	and use login: "karaf", password: "karaf"
 	
 Note on Git and Submodules
