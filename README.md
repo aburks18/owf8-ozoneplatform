@@ -3,6 +3,8 @@ OZONE Platform Super Project [![Build Status](https://travis-ci.org/ozoneplatfor
 
 #### Looking for OWF 6.0 and 7.0?  Please see the [OWF repository](https://github.com/ozoneplatform/owf).
 
+#### This project has been deprecated. Any use in a production environment is at your own risk!
+
 This is a super project for all ozoneplatform projects.  This project can be used to build all sub projects.
 This project also contains the ultimate maven super pom.
 
